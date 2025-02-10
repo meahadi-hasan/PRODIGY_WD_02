@@ -16,3 +16,5 @@ This project allows users to start, pause, reset the stopwatch, and track lap ti
 - **CSS**: For styling and creating a visually appealing interface.
 - **JavaScript**: For implementing the stopwatch logic and interactivity.
 
+## 🚀 **Live View**  
+🌐  View the Live Site Here [Stopwatch ](https://web-stopwatch-app.netlify.app) 
